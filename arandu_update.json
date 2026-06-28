@@ -2,7 +2,9 @@
     "Version":  "3.8.8",
     "Fecha":  "2026-06-28",
     "Obligatoria":  false,
-    "Notas":  "Actualizacion mas robusta: el programa usa siempre el actualizador mas reciente del repo (fallback al local). Verificacion automatica de la publicacion.",
+    "Notas":  [
+                  "Actualizacion mas robusta: el programa usa siempre el actualizador mas reciente del repo (fallback al local). Verificacion automatica de la publicacion."
+              ],
     "Modulos":  [
                     {
                         "Nombre":  "Administrador",
