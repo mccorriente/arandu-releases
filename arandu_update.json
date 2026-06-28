@@ -1,12 +1,15 @@
 {
-    "Version":  "3.8.1",
+    "Version":  "3.8.2",
     "Fecha":  "2026-06-27",
     "Obligatoria":  false,
-    "Notas":  "Nueva version 3.8.1",
+    "Notas":  [
+                  "Ahora podes elegir en que sucursales aplicar cada cambio (lista con tildes)",
+                  "Se quito la opcion Configurar actualizaciones (ya no era necesaria)"
+              ],
     "Modulos":  [
                     {
                         "Nombre":  "Administrador",
-                        "Version":  "3.8.1",
+                        "Version":  "3.8.2",
                         "Carpeta":  "Administrador",
                         "Ejecutable":  "AdminArandu.exe",
                         "Archivos":  [
@@ -15,7 +18,7 @@
                     },
                     {
                         "Nombre":  "Cajero",
-                        "Version":  "3.8.1",
+                        "Version":  "3.8.2",
                         "Carpeta":  "Cajero",
                         "Ejecutable":  "Cajero.exe",
                         "Archivos":  [
@@ -24,7 +27,7 @@
                     },
                     {
                         "Nombre":  "Preventa",
-                        "Version":  "3.8.1",
+                        "Version":  "3.8.2",
                         "Carpeta":  "Preventa",
                         "Ejecutable":  "Preventa.exe",
                         "Archivos":  [
