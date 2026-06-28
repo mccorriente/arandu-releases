@@ -1,15 +1,12 @@
 {
-    "Version":  "3.8.4",
+    "Version":  "3.8.5",
     "Fecha":  "2026-06-28",
     "Obligatoria":  false,
-    "Notas":  [
-                  "Presupuesto de Preventa ahora sale en formato ticket y rotulado PRESUPUESTO",
-                  "Impresion de tickets: se corrige el corte a la derecha y se agrega margen inferior"
-              ],
+    "Notas":  "Se corrige la actualizacion automatica (argumentos del actualizador mal encomillados que cortaban la ruta de destino)",
     "Modulos":  [
                     {
                         "Nombre":  "Administrador",
-                        "Version":  "3.8.4",
+                        "Version":  "3.8.5",
                         "Carpeta":  "Administrador",
                         "Ejecutable":  "AdminArandu.exe",
                         "Archivos":  [
@@ -18,7 +15,7 @@
                     },
                     {
                         "Nombre":  "Cajero",
-                        "Version":  "3.8.4",
+                        "Version":  "3.8.5",
                         "Carpeta":  "Cajero",
                         "Ejecutable":  "Cajero.exe",
                         "Archivos":  [
@@ -27,7 +24,7 @@
                     },
                     {
                         "Nombre":  "Preventa",
-                        "Version":  "3.8.4",
+                        "Version":  "3.8.5",
                         "Carpeta":  "Preventa",
                         "Ejecutable":  "Preventa.exe",
                         "Archivos":  [
