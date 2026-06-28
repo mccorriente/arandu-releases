@@ -1,12 +1,15 @@
 {
-    "Version":  "3.8.5",
+    "Version":  "3.8.6",
     "Fecha":  "2026-06-28",
     "Obligatoria":  false,
-    "Notas":  "Se corrige la actualizacion automatica (argumentos del actualizador mal encomillados que cortaban la ruta de destino)",
+    "Notas":  [
+                  "Log de errores central (Ayuda \u003e Ver registro de errores)",
+                  "Backup automatico diario de la base (Herramientas \u003e Carpeta de backups)"
+              ],
     "Modulos":  [
                     {
                         "Nombre":  "Administrador",
-                        "Version":  "3.8.5",
+                        "Version":  "3.8.6",
                         "Carpeta":  "Administrador",
                         "Ejecutable":  "AdminArandu.exe",
                         "Archivos":  [
@@ -15,7 +18,7 @@
                     },
                     {
                         "Nombre":  "Cajero",
-                        "Version":  "3.8.5",
+                        "Version":  "3.8.6",
                         "Carpeta":  "Cajero",
                         "Ejecutable":  "Cajero.exe",
                         "Archivos":  [
@@ -24,7 +27,7 @@
                     },
                     {
                         "Nombre":  "Preventa",
-                        "Version":  "3.8.5",
+                        "Version":  "3.8.6",
                         "Carpeta":  "Preventa",
                         "Ejecutable":  "Preventa.exe",
                         "Archivos":  [
