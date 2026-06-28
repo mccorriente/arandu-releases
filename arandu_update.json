@@ -1,0 +1,35 @@
+{
+    "Version":  "3.8.1",
+    "Fecha":  "2026-06-27",
+    "Obligatoria":  false,
+    "Notas":  "Nueva version 3.8.1",
+    "Modulos":  [
+                    {
+                        "Nombre":  "Administrador",
+                        "Version":  "3.8.1",
+                        "Carpeta":  "Administrador",
+                        "Ejecutable":  "AdminArandu.exe",
+                        "Archivos":  [
+                                         "AdminArandu.exe"
+                                     ]
+                    },
+                    {
+                        "Nombre":  "Cajero",
+                        "Version":  "3.8.1",
+                        "Carpeta":  "Cajero",
+                        "Ejecutable":  "Cajero.exe",
+                        "Archivos":  [
+                                         "Cajero.exe"
+                                     ]
+                    },
+                    {
+                        "Nombre":  "Preventa",
+                        "Version":  "3.8.1",
+                        "Carpeta":  "Preventa",
+                        "Ejecutable":  "Preventa.exe",
+                        "Archivos":  [
+                                         "Preventa.exe"
+                                     ]
+                    }
+                ]
+}
